@@ -1,0 +1,13 @@
+node_modules
+dist
+static
+.DS_Store
+npm-debug.log*
+.env
+coverage
+*.un~
+*.swp
+*.swo
+package-lock.json
+build
+*.lock

@@ -1,0 +1,16 @@
+{
+  "name": "trunkRegister",
+  "version": "0.0.1",
+  "description": "Sample Trunk Register.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Rahul Pathak",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "drachtio-srf": "^4.4.33",
+    "uuid": "^3.3.3"
+  }
+}
